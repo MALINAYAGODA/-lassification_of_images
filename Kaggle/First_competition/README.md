@@ -15,9 +15,11 @@ Develop an algorithm to identify individual whales in the images.
 ### Data:
 The Happywhale database, consisting of more than 25,000 images collected by research
 institutes and public organizations.
+
 ![Kitick](https://github.com/MALINAYAGODA/-lassification_of_images/blob/main/Images/kit.jpg)
 ### Loss function:
 Submissions are evaluated according to the Mean Average Precision @ 5 (MAP@5)
+
 ![loss](https://github.com/MALINAYAGODA/-lassification_of_images/blob/main/Images/loss.png)
 ### Stages:
 1) Скачать и изучить данные
