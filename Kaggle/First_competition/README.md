@@ -16,7 +16,6 @@
 ### Data:
 База данных Happywhale, состоящая из более чем 25 000 изображений, собранных исследовательскими
 институтами и общественными организациями.
-https://github.com/MALINAYAGODA/-lassification_of_images/blob/main/Images/kit.jpg
 ![Kitick](https://github.com/MALINAYAGODA/-lassification_of_images/blob/main/Images/kit.jpg)
 ### Loss function:
 Submissions are evaluated according to the Mean Average Precision @ 5 (MAP@5)
